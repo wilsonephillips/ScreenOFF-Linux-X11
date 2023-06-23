@@ -4,4 +4,4 @@ Tells your monitor to go directly into powersave mode. This is pretty handy some
 I drop the file into my ~/scripts folder and drop a shortcut to it on the desktop. Don't forget that it needs to be exucutable to run.
 
 
-This one does not seem to work on Wayland.
+This one does not seem to work anymore. I really need to take some time to see if I can fix it.
