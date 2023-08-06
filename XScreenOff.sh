@@ -7,7 +7,7 @@
 
 sleep 3  # Gives 3 seconds to let go of the mouse if clicking a link on the desktop.
 
-# Choose the one that works for you.
-#xset dpms force suspend
-xset dpms force standby
+# Choose the one that works for you. For me, they all work fine.
+xset dpms force suspend
+#xset dpms force standby
 #xset dpms force off
